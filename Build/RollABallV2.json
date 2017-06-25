@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "RollABallV2.data.unityweb",
+"asmCodeUrl": "RollABallV2.asm.code.unityweb",
+"asmMemoryUrl": "RollABallV2.asm.memory.unityweb",
+"asmFrameworkUrl": "RollABallV2.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
